@@ -1,0 +1,81 @@
+
+.ant-modal {
+    display: flex;
+    justify-content: center !important;
+    width: 63vw !important;
+
+    background-color: #fff !important;
+    border-radius: 1vw;
+}
+
+.ant-modal-root {
+    background-color: #fff !important;
+}
+
+
+.modal-bg{
+    display: flex;
+    background: linear-gradient(135deg, LavenderBlush 40%, LightCyan) !important;   
+    width: 60vw !important;
+    border-radius: 1vw;
+    
+}
+
+
+.ant-modal-content, {
+    display: flex ;
+    width: 80vw !important;
+    margin: 0 !important;
+    justify-content: center;
+}
+
+.ant-modal-mask {
+   /*  background: linear-gradient(135deg, LavenderBlush 40%, LightCyan) !important;    */
+}
+
+.ant-modal-wrap {
+    width: 100vw !important;
+    margin: 0 !important;
+        background-color: transparent !important;
+
+}
+
+.kit-img {
+    display: flex !important;
+    justify-content: left !important;
+    width: 20vw !important;
+    margin: 1vw !important;
+}
+.desc-produtoModal {
+    width: 45vw !important;
+    margin:  2vw 2vw 4vw 2vw!important;
+ 
+    
+}
+
+.itens-modal {
+    margin-top: 2vw !important;
+
+}
+
+.descModal {
+    display: inline !important;
+    width: 40vw !important;
+
+}
+
+.css-dev-only-do-not-override-14wwjjs.ant-btn {
+    height: auto !important;
+}
+
+.ant-modal-title {
+    display: flex !important;
+    justify-content: center !important;
+    font-size: 1.5vw !important;
+}
+
+.ant-btn.css-dev-only-do-not-override-14wwjjs.ant-btn-default, .ant-btn-primary {
+    color: #000;
+    border: none !important;
+    background: linear-gradient(135deg, LavenderBlush 40%, LightCyan) !important;
+}
