@@ -30,7 +30,7 @@ export const Colapse = () => {
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                            <strong>O prazo de produção varia de acordo com a encomenda.</strong> Tratamos todos os pedidos individualmente, desde o pré-atendimento, até o fechamento das artes e pacotes. Você saberá do prazo assim que informar os produtos, as quantidades e o tema. 
                         </div>
                     </div>
                 </div>
@@ -42,7 +42,7 @@ export const Colapse = () => {
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                            <strong>Atualmente, fazemos postagem via Correios somente em casos excepcionais.</strong> A retirada dos produtos é por conta do cliente e pode ser feita pessoalmente ou podemos conversar para verificar a melhor forma de atender o seu caso. Nenhum produto tem valor de frete (entrega) incluido, visto que a DrPapel não trata da responsabilidade de retirada do produto em nosso ateliê.
                         </div>
                     </div>
                 </div>

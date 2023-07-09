@@ -43,6 +43,7 @@ const Footer = () => {
         </section>
         </div>
         <p className="footer-copy font-2-m cor-6">Estúdio Dr Papel © Alguns direitos reservados. </p>
+        <p className="footer-copy font-2-m cor-6">Desenvolvido por @DaniSimoni </p>
     </div>
 </footer>
 

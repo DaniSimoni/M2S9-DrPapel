@@ -37,13 +37,14 @@
     align-items: center;
     gap: 8px;
     position: relative;
+    width: 30vw !important;
 }
 
 .horario {
     display: flex !important;
     justify-content: space-between !important;
     position: relative;
-    width: 180px;
+    width: 30vw;
 }
 
 .lojas {
@@ -74,4 +75,5 @@
     margin-bottom: 0px !important;
     padding-bottom: 0px;
     font-size: 120%;
+    background-image: none !important;
 }

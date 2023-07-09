@@ -20,11 +20,11 @@ const Card = () => {
                     </div>
                     <div className="lojas-dados font-2-s cor-8">
                         <a href="mailto:sp@bikcraft.com" className="info-loja">contato@drpapel.com</a>
-                        <a href="tel:+5548984037505" className="info-loja">+55 48 984035-7505</a>
+                        <a href="tel:+5548984037505" className="info-loja">+55 48 98853-5179</a>
                     </div>
 
                     <div className="horario">
-                        <img src="https://www.origamid.com/projetos/bikcraft/img/icones/horario.svg" alt="" className="img4" /><p className="lojas-tempo font-1-s horario2">09-17h de seg à sab</p>
+                        <img src="https://www.origamid.com/projetos/bikcraft/img/icones/horario.svg" alt="" className="img4" /><p className="lojas-tempo font-1-s horario2">09-17h de seg à sab somente via Whatsapp</p>
                     </div>
                 </div>
 
